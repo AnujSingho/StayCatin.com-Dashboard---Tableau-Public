@@ -20,6 +20,8 @@ StayCatin.com is an online platform that lets you book a property on a particula
 
 Or click here to view the interactive dashboard: [View Dashboard](https://public.tableau.com/app/profile/anuj.singh1169/viz/Dashboard_Anujsingh_StayCating_dataset/Dashboard_AnujSIngh)
 
+### **STORYBOARD**
+
 
 
 
