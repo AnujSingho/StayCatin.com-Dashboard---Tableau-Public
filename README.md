@@ -22,7 +22,7 @@ Or click here to view the interactive dashboard: [View Dashboard](https://public
 
 [![StoryBoard Preview](Story_AnujSingh.png)](https://public.tableau.com/app/profile/anuj.singh1169/viz/Story_AnujSingh_StayCatin_Project/Story_AnujSingh)
 
-Scroll to the left and right to get the complete interactive Storyboard: [View Storyboard](https://public.tableau.com/app/profile/anuj.singh1169/viz/Story_AnujSingh_StayCatin_Project/Story_AnujSingh)
+Click on the Storyboard and Scroll to the left and right (Arrow Above) to get the complete interactive Storyboard: [View Storyboard](https://public.tableau.com/app/profile/anuj.singh1169/viz/Story_AnujSingh_StayCatin_Project/Story_AnujSingh)
 
 ### **INSIGHTS FROM STORYBOARD**
 
